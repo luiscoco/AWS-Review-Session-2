@@ -70,6 +70,26 @@ Provision a Logically Isolated Section of the AWS Cloud
 
 ![image](https://github.com/user-attachments/assets/404e9d03-3db8-41fb-8b6e-ece3a8511db8)
 
+Here is another example of VPC for web and database servers
+
+This example demonstrates how to create a VPC that you can use for a two-tier architecture in a production environment
+
+To improve resiliency, you deploy the servers in two Availability Zones
+
+![image](https://github.com/user-attachments/assets/ebfceff2-5b57-4151-9e7d-5e420d117a9f)
+
+The VPC has public subnets and private subnets in two Availability Zones
+
+The web servers run in the public subnets and receive traffic from clients through a load balancer
+
+The security group for the web servers allows traffic from the load balancer
+
+The database servers run in the private subnets and receive traffic from the web servers
+
+The security group for the database servers allows traffic from the web servers
+
+The database servers can connect to Amazon S3 by using a gateway VPC endpoint
+
 ### 1.2. AWS VPC IP Addressing
 
 
