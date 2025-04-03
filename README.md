@@ -32,11 +32,13 @@
 
 **3. AWS Direct Connect**
 
-3.1. How to add redundancy to my dedicated circuits?
+3.1. Use AWS Direct Connect to securely link your on-premise environment to AWS
 
-3.2. How to access my VPCs or AWS Public Services over my DX?
+3.2. How to add redundancy to my dedicated circuits?
 
-3.3. How to connect to multiple AWS Regions/Accounts over DX?
+3.3. How to access my VPCs or AWS Public Services over my DX?
+
+3.4. How to connect to multiple AWS Regions/Accounts over DX?
 
 **4. AWS Transit Gateway**
 
@@ -217,15 +219,15 @@ Using a global anycast network of DNS servers around the world, AWS Route 53 is 
 ### 3.1. Use AWS Direct Connect to securely link your on-premise environment to AWS
 
 
-### 3.1. How to add redundancy to my dedicated circuits?
+### 3.2. How to add redundancy to my dedicated circuits?
 
 
 
-### 3.2. How to access my VPCs or AWS Public Services over my DX?
+### 3.3. How to access my VPCs or AWS Public Services over my DX?
 
 
 
-### 3.3. How to connect to multiple AWS Regions/Accounts over DX?
+### 3.4. How to connect to multiple AWS Regions/Accounts over DX?
 
 
 ## 4. AWS Transit Gateway
