@@ -170,6 +170,27 @@ VPC Peering
 
 ## 2. AWS Route 53 (DNS)
 
+### 2.1. A reliable and cost-effective way to route end users to Internet applications
+
+Connects user requests to infrastructure running in AWS
+
+Highly available and scalable cloud Domain Name System (DNS) web service
+
+![image](https://github.com/user-attachments/assets/4373e9cf-b902-4849-94d4-c35c05b96f70)
+
+AWS Route 53 Traffic Flow makes it easy to set up sophisticated routing logic for your applications
+
+Using a global anycast network of DNS servers around the world, AWS Route 53 is designed to automatically route your users to the optimal location depending on network conditions
+
+### 2.2. 
+
+
+
+### 2.3. 
+
+
+
+
 
 ## 3. AWS Direct Connect
 
