@@ -4,29 +4,29 @@
 
 1. AWS Virtual Private Cloud (VPC)
 
-1.1. AWS VPC 
+AWS VPC 
 
-1.2. AWS VPC IP Addressing
+AWS VPC IP Addressing
 
-1.3. Segmenting networks inside a VPC
+Segmenting networks inside a VPC
 
-1.4. AWS Subnets
+AWS Subnets
 
-1.5. Internet Gateway
+Internet Gateway
 
-1.6. Elastic IP Address
+Elastic IP Address
 
-1.7. NAT Gateway
+NAT Gateway
 
-1.8. Shared VPC
+Shared VPC
 
-1.9. Security Groups
+Security Groups
 
-1.10. Network Access Control Lists (NACLs)
+Network Access Control Lists (NACLs)
 
-1.11. VPC Endpoints – Interface and Endpoint
+VPC Endpoints – Interface and Endpoint
 
-1.12. VPC Peering
+VPC Peering
 
 2. AWS Route 53 (DNS)
 
