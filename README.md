@@ -148,7 +148,25 @@ Connect Privately to Public AWS Services
 
 Connecting directly to other VPCs
 
+![image](https://github.com/user-attachments/assets/fa3b8cf2-6066-4901-8371-463668791bff)
 
+VPC Peering
+
+• Scalable and high available
+
+• Inter-account peering
+
+• Same or different AWS Regions
+
+• Bi-directional traffic
+
+• Remote Security groups can be referenced
+
+• Routing policy with Route Tables; not all subnets need to connect to each other
+
+• No transitive routing, requires full-mesh to interconnect multiple VPCs
+
+• No support for overlapping IP addresses
 
 ## 2. AWS Route 53 (DNS)
 
