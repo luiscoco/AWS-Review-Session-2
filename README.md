@@ -2,13 +2,13 @@
 
 ## Index
 
-1. Virtual Private Cloud (VPC)
+1. AWS Virtual Private Cloud (VPC)
 
-2. Route 53 (DNS)
+2. AWS Route 53 (DNS)
 
-3. Direct Connect
+3. AWS Direct Connect
 
-4. Transit Gateway
+4. AWS Transit Gateway
 
 5. AWS Security Groups and NACLs
 
