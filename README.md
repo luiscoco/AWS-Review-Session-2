@@ -18,7 +18,7 @@
 
 ## 1. AWS Virtual Private Cloud (VPC)
 
-### 1.1. VPC
+### 1.1. AWS VPC
 
 https://docs.aws.amazon.com/en_us/vpc/latest/userguide/what-is-amazon-vpc.html
 
