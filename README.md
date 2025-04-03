@@ -2,9 +2,9 @@
 
 ## Index
 
-1. AWS Virtual Private Cloud (VPC)
+**1. AWS Virtual Private Cloud (VPC)**
 
-AWS VPC 
+1.1. AWS VPC 
 
 AWS VPC IP Addressing
 
