@@ -182,7 +182,29 @@ AWS Route 53 Traffic Flow makes it easy to set up sophisticated routing logic fo
 
 Using a global anycast network of DNS servers around the world, AWS Route 53 is designed to automatically route your users to the optimal location depending on network conditions
 
-### 2.2. 
+### 2.2. Domain Names to IP Address
+
+![image](https://github.com/user-attachments/assets/4129737e-62bf-4e65-aa13-fdc181f0f4d8)
+
+• AWS DNS service
+
+• Domain Registration
+
+• Domain name resolution
+
+• 100% availability SLA
+
+• Health Checks
+
+• DNS Failover
+
+• Latency Based Routing
+
+• Geo Based Routing
+
+• Weighted Round Robin
+
+• Private DNS for VPC
 
 
 
