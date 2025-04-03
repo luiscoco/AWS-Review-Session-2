@@ -78,6 +78,8 @@ To improve resiliency, you deploy the servers in two Availability Zones
 
 ![image](https://github.com/user-attachments/assets/ebfceff2-5b57-4151-9e7d-5e420d117a9f)
 
+https://docs.aws.amazon.com/en_us/vpc/latest/userguide/vpc-example-web-database-servers.html
+
 The VPC has public subnets and private subnets in two Availability Zones
 
 The web servers run in the public subnets and receive traffic from clients through a load balancer
