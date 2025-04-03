@@ -4,6 +4,30 @@
 
 1. AWS Virtual Private Cloud (VPC)
 
+1.1. AWS VPC 
+
+1.2. AWS VPC IP Addressing
+
+1.3. Segmenting networks inside a VPC
+
+1.4. AWS Subnets
+
+1.5. Internet Gateway
+
+1.6. Elastic IP Address
+
+1.7. NAT Gateway
+
+1.8. Shared VPC
+
+1.9. Security Groups
+
+1.10. Network Access Control Lists (NACLs)
+
+1.11. VPC Endpoints – Interface and Endpoint
+
+1.12. VPC Peering
+
 2. AWS Route 53 (DNS)
 
 3. AWS Direct Connect
