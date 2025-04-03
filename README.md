@@ -98,6 +98,9 @@ Filtering Traffic at Subnet Level
 
 Connect Privately to Public AWS Services
 
+### 1.12. VPC Peering
+
+Connecting directly to other VPCs
 
 
 
